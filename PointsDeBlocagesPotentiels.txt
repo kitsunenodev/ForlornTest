@@ -1,0 +1,20 @@
+points de blocages potentiel:
+
+- Multi:
+	- Lobby (https://www.youtube.com/watch?v=xSzbvAdd-dw) // Après considération pas de blocage particulier, le plugin steam advance session fait tout pour nous
+	- Replication
+- Gen Pro
+
+- AI :	- Controller
+	- AI Perception
+	- Navmesh Updating
+	- State Tree (https://www.youtube.com/watch?v=qToFYZQKxXA&list=PLoReGgpfex3x73FUEWY1W0HGXVGsFAw5E)
+- Modification de l'environement par le IAs/ Joueurs
+- Gestion du micro (Bruit/ Chat vocal de proximité)
+
+
+- Source Control (P4V / Git) // De toute façon on devra avoir un source control et dans le pire des cas on utiliseras git.
+
+
+- Survivre au tentatives d'asssassinat par la team après avoir fait 143
+fois la blage des "Trois nains vont à la mine..."
