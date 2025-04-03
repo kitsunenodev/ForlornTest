@@ -9,11 +9,8 @@ points de blocages potentiel:
 	- AI Perception
 	- Navmesh Updating
 	- State Tree (https://www.youtube.com/watch?v=qToFYZQKxXA&list=PLoReGgpfex3x73FUEWY1W0HGXVGsFAw5E)
-- Modification de l'environement par le IAs/ Joueurs
+-<!-- Modification de l'environement par le IAs/ Joueurs --> // Plus pertinent
 - Gestion du micro (Bruit/ Chat vocal de proximité)
-
-
-- Source Control (P4V / Git) // De toute façon on devra avoir un source control et dans le pire des cas on utiliseras git.
 
 
 - Survivre au tentatives d'asssassinat par la team après avoir fait 143
