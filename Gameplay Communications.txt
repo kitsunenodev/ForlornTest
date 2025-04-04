@@ -1,17 +1,17 @@
 Communication:
 
 L'un des points les plus important de Forlorn est la transmitions d'information,
-et le premier outils mis à disposition des joueurs pour accomplir cette tache et 
+et le premier outils mis à disposition des joueurs pour accomplir cette tache est 
 le chat vocal de proximité.
 
-Lorsque les nains seront suffisament proche il pourront se parler directement
-ce qui est la manière la plus précise de se transmettre des informations. 
-Cependant cette methode ne présente pas que des avantages. Premièrement elle
-ne fonctionne que sur une courte distance: Plus un joueurs est éloigné de l'orateur
-plus le son sera étoufé, jusqu'a être completement inaudible.
-De plus, les paroles pourront être entendu par les autres jouerus, mais également
-par les ennemis qui se trouverait à proximité. Cette methode doit donc être utilisé
-avec partimonie.
+
+Le chat vocal est un outils assez situationnel puisque les joueurs seront souvent
+trop éloigné les uns des autres pour s'entendre, il communiqueront donc la plupart
+du temps par les autres moyens mis à leurs disposition. Cependant lorsque les joueurs
+se retrouvent, cette methode leurs permet de se communiquer rapidement et avec une
+grande précisions une grande quantité d'informations. Il faut tout de même faire
+attention, car les ennemis sont eux-aussi capables d'entendre les joueurs
+lorsqu'ils parlent.
 
 Une autre methode de communications mise a dispositions des joeurs et le cognace.
 Grâce à un input dédié, le nain peut cogner sur sa pioche avec  un marteau produisant
@@ -30,11 +30,8 @@ un murs ou sur le sols au travers d'un mini jeux haptique. Ce mini-jeu lui perme
 controler la vitesse à laquelle il effectue la gravure ce qui va egalement influencer le
 niveau de bruits généré. Cette methode de communication présente l'avantage de pouvoir
 être très discrète, ce qui est idéal pour transmettre des informations sans alerter
-les ennemis. En contrepartie, les options de gravures sont limités et les joueurs
-doivent faire attention a ce que le message gravé ne soit pas mésinterpréter par les
-autres joueurs, d'autant plus que la transmissions d'information ne se fait que lorsque
-les joueurs voient la gravure. il faut donc garder en tête que les informations transmises
-au moment de la gravure ne sont peut-être plus d'actualité. Il faut egalement faire
-attentions à l'endroit où l'on place les gravure, car même si le jeu inclus des outils
-permettantsde rendre les gravure plus visible en les faisant briller par exemple, un
-joueurs peut passer à coté d'une gravure si son emplacement n'a pas été réfléchis
+les ennemis. Et comme les gravure perdurent dans le temps, elle peuvent présenter de
+multiples utilités, comme transmettre des informations certes, mais elles peuvent 
+également servir de repère pour mieux se retrouver dans la mine. Les gravures offrent
+une grande liberté au joueurs qui peuvent transmettre diférentes informations en 
+inscrivants différents combinaisons de gravure.
