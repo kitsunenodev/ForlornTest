@@ -1,0 +1,40 @@
+Communication:
+
+L'un des points les plus important de Forlorn est la transmitions d'information,
+et le premier outils mis à disposition des joueurs pour accomplir cette tache et 
+le chat vocal de proximité.
+
+Lorsque les nains seront suffisament proche il pourront se parler directement
+ce qui est la manière la plus précise de se transmettre des informations. 
+Cependant cette methode ne présente pas que des avantages. Premièrement elle
+ne fonctionne que sur une courte distance: Plus un joueurs est éloigné de l'orateur
+plus le son sera étoufé, jusqu'a être completement inaudible.
+De plus, les paroles pourront être entendu par les autres jouerus, mais également
+par les ennemis qui se trouverait à proximité. Cette methode doit donc être utilisé
+avec partimonie.
+
+Une autre methode de communications mise a dispositions des joeurs et le cognace.
+Grâce à un input dédié, le nain peut cogner sur sa pioche avec  un marteau produisant
+Un son se répercutant sur une grande disance. Cette methode de communication présente
+l'avantage de pouvoir donner des informations a ses coéquipier mêmes s'ils sont éloigné.
+Cependant les informations communiqués sont plus rudimentaire, par conséquent les joueurs
+devront se concerter à l'avance afin de ne pas mésinterpréter un cognage, d'autant que
+tout comme pour le chat vocal, les joueurs ne sont pas les seuls à pouvoir entendre un
+nain cogner sur sa pioche.
+
+Le troisième outils mis à la dispositions des joueurs pour pouvoirs se transmettre des
+informations est le burin qui permet d'effectuer des gravures dans la roche. En 
+appuyant sur un input dédié, le joueurs ouvre un menu contextuel qui affiche les
+différentes gravures disponibles. le joueurs peut en selectionner une qu'il gravera sur
+un murs ou sur le sols au travers d'un mini jeux haptique. Ce mini-jeu lui permettra de
+controler la vitesse à laquelle il effectue la gravure ce qui va egalement influencer le
+niveau de bruits généré. Cette methode de communication présente l'avantage de pouvoir
+être très discrète, ce qui est idéal pour transmettre des informations sans alerter
+les ennemis. En contrepartie, les options de gravures sont limités et les joueurs
+doivent faire attention a ce que le message gravé ne soit pas mésinterpréter par les
+autres joueurs, d'autant plus que la transmissions d'information ne se fait que lorsque
+les joueurs voient la gravure. il faut donc garder en tête que les informations transmises
+au moment de la gravure ne sont peut-être plus d'actualité. Il faut egalement faire
+attentions à l'endroit où l'on place les gravure, car même si le jeu inclus des outils
+permettantsde rendre les gravure plus visible en les faisant briller par exemple, un
+joueurs peut passer à coté d'une gravure si son emplacement n'a pas été réfléchis

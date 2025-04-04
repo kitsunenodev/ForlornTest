@@ -1,0 +1,28 @@
+
+Defis techniques
+Concernant l'aspect techniques, le projet présente 2 défis majeurs.
+
+La génération procèdurale doit offrir de la variété et de la diversité dans le level design tout en
+Gardant une cohérence dans le level design.
+
+La solution envisagée actuellement et de fonctionner avec des presets de salles et de couloirs assemblés selon des règles précises
+sur une grille en 3 dimensions.
+
+La génération se passerait en 3 étapes.
+
+Premièrement on place un nombre défini des salle sur la grille selon le type de mine.
+Deuxièmement on relie ces salles entres elles en placant des couloirs sur les cases vides.
+Troisièmement on vient peupler la mine générée avec les éléments de gameplay comme les objectifs de missions, les dangers,
+et les objectifs secondaires. 
+
+
+Pour le mode multijoueur, nous nous sommes décidé sur une solution de listen server, c'est-à-dire que c'est l'un des joueurs (celui qui
+a créé la session) qui va être le server et héberger la partie.
+Cette solutions nous épargne d''avoir a gérer un server dédié 
+
+Un systeme de lobby public et privé sera présent permettant de jouer entre amis ou avec des inconnus
+
+Il est également prévu d'intégrer le systeme d'invitation steam afin de pouvoir facilement inviter ou rejoindre
+la  partie d'un contact.
+
+
