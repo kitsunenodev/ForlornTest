@@ -2,27 +2,22 @@ Monstre:
 
 Les mines de Forlorn sont remplis de dangers, et le plus terrifiant de ses
 dangers sont les monstres que la mine vous enverra pour se débarrasser de
-vous. Chaque monstre et uniques est possède son propres comportements, 
+vous. Chaque monstre et unique est possède son propres comportements, 
 mais il partage tous une capacité : Une Ouïe développé à l'affut du
 moindre bruit qui vient perturber le silence de la mine. C'est la raison
 pour laquelle les joueurs doivent rester le plus discret possible tout
 au long de leur mission.
 
-Les capacités variés des monstres forces les joueurs à procéder avec
-énormément de prudence dès le debut de la partie car tant qu'ils n'ont
-pas pu identifier avec certitude à quel(s) montre(s) ils doivent faire
-fasse, chaque actions qu'ils entreprennent est potentiellement dangereuse.
 Les monstres sont peu nombreux dans la mine, la plupart du temps les
 joueurs n'en rencontreront qu'un au sein d'une mission, mais étant 
 particulièrement dangereux et les joueurs particulièrement sous-équipés,
 le combat n'est pas une option. Il faut à tout prix éviter la rencontre.
-seulement les monstres ont, comme dit précédemment, des capacités et des
-comportements uniques, la stratégie à adopter est donc dépendante du
-monstre en face de vous.
+seulement les monstres ont des capacités et des comportements uniques,
+la stratégie à adopter est donc dépendante du monstre en face de vous. 
 
 Prenons l'exemple du traqueur fantôme, un monstre discret dont la
 particularité et de pouvoir creuser des galeries pour pouvoir se déplacer
-rapidement et sans bruits dans au sein de la mine. Il patrouille dans
+rapidement et sans bruits au sein de la mine. Il patrouille dans
 la mine à la recherche de proie, en l'occurrence, vous. Lorsqu'il voit
 ou entends un joueurs il le prends en chasse en le traquant de manière
 discrète. Le traqueur fantôme est un monstre timide qui cherchera à se
@@ -32,11 +27,20 @@ resterez suffisamment en sécurité jusqu'à trouver le moyen de le semer
 au detour d'un couloir.
 
 Mais il existe d'autres monstres plus agressifs dans la mine. Par exemple
-le rodeur griffeurs, un monstre assez classique qui possède un nid duquel
-il ne sort que rarement, et qui attaque les nains à vu. Ou comme les
-sentinelles cadavérique qui parcourent la mine à plusieurs et qui attaquent
-ensemble les nains trouvés. Contres ces monstres, il faut redoubler de
-discretion car la fuite est plus compliquée.
+le rodeur griffeurs, un monstre assez classique qui marque son territoire
+en griffant le murs et potentiellement les gravures qui s'y trouve, et qui
+attaque les nains à vu. Ou comme les sentinelles cadavérique qui parcourent
+la mine à plusieurs et qui attaquent ensemble les nains trouvés. Contres ces
+monstres, il faut redoubler de discretion car la fuite est plus compliquée.
+
+Les capacités variés des monstres forcent les joueurs à procéder avec
+énormément de prudence dès le debut de la partie car tant qu'ils n'ont
+pas pu identifier avec certitude à quel(s) montre(s) ils doivent faire
+face, chaque actions qu'ils entreprennent est potentiellement dangereuse.
+En conséquent, Les joueurs doivent changer leurs habitudes pour s'adapter
+au monstres. Face à un rodeur griffeur, les joueurs ont tout intérêt à
+essayer de privilégier d'autre méthodes de communications que les gravures,
+quite à chambouler leurs habitudes. De même, si les joueurs
 
 pour esquiver les ennemis les nain devront utiliser les outils à 
 leurs disposition pour faire diversion, en jetant des cailloux

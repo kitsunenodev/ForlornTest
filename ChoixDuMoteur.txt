@@ -1,0 +1,14 @@
+Concernant le moteur, nous souhaitons développer Forlorn sur Unreal
+Engine pour tirer profits des différents outils qu'il met à disposition.
+Pour la partie réseau notamment, utiliser unreal nous permet d'utiliser
+la réplication pour synchroniser les données entres les différents
+joueurs, et le plugin Advanced Steam Session pour la gestion de session
+
+Concernant l'intelligence artificielle, Unreal propose différents outils
+Notamment les States Tree qui permettra de gérer efficacement les
+différents comportement des monstres. Couplé avec l' Environment Query 
+System qui permettra au monstres de controller efficacement leur
+environnement, et à l'AI Perception qui assura un contrôle précis
+des sens des montres, notamment l'ouïe, cet outils donnera aux
+monstres des comportements variés et complexe pour un faire un
+veritable points fort de Forlorn.
