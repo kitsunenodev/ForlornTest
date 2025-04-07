@@ -40,7 +40,10 @@ face, chaque actions qu'ils entreprennent est potentiellement dangereuse.
 En conséquent, Les joueurs doivent changer leurs habitudes pour s'adapter
 au monstres. Face à un rodeur griffeur, les joueurs ont tout intérêt à
 essayer de privilégier d'autre méthodes de communications que les gravures,
-quite à chambouler leurs habitudes. De même, si les joueurs
+quite à chambouler leurs habitudes. De même, si les joueurs sont habitués
+à garder constamment leurs lanternes allumé pour s'orienter plus facilement
+ou pour repérer le gaz, ils devront parfois changer leur routine pour se 
+camoufler d'un monstre qu'ils n'avaient pas anticipés.
 
 pour esquiver les ennemis les nain devront utiliser les outils à 
 leurs disposition pour faire diversion, en jetant des cailloux
