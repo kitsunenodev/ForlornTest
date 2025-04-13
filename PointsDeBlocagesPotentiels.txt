@@ -2,6 +2,7 @@ points de blocages potentiel:
 
 - Multi:
 	- Lobby (https://www.youtube.com/watch?v=xSzbvAdd-dw) // Après considération pas de blocage particulier, le plugin steam advance session fait tout pour nous
+https://github.com/mordentral/AdvancedSessionsPlugin
 	- Replication
 - Gen Pro
 
